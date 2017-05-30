@@ -24,6 +24,14 @@
     float:left;
     
 }
+#logotext{
+    display:inline;
+    text-align:left;
+    float:left;
+    margin-left:15px;
+    font-family: 'Amatic SC',cursive;
+    font-size: 2em;
+}
 #nav{
     font-family:"Source Sans Pro";
     text-transform: uppercase;
@@ -473,7 +481,19 @@
 	.\-4u {
 		margin-left: 33.33333%;
 	}
+.\-4u.h3{
+    text-align: center
+}
 
+.\-4u-philosophy{
+    margin-left: 33.33333%;
+}
+.\-4u-philosophy.h3{
+    text-align: center
+}
+.\4u-implement{
+    margin-left: 40%;
+}
 	.\-3u {
 		margin-left: 25%;
 	}
@@ -997,7 +1017,8 @@
 		.row.uniform.\32 5\25 {
 			margin: -0.375em 0 -1px -0.375em;
 		}
-
+        
+    
 		.\31 2u\28medium\29, .\31 2u\24\28medium\29 {
 			width: 100%;
 			clear: none;
@@ -1647,7 +1668,7 @@
 		}
 
   #notification{
-        font-size: 5em;
+        font-size: 2.5em;
         text-align: center;
         padding: 50px;
       
@@ -1827,7 +1848,7 @@
 			}
 
 			section.wrapper header p, article.wrapper header p {
-				font-size: 1em;
+				font-size: 1.5em;
 			}
 
 		section.wrapper article header, article.wrapper article header {
@@ -2720,15 +2741,15 @@
 
 /* Header */
 
-	.subpage {
+	.x {
 		padding-top: 44px;
 	}
 
 		.subpage #header {
 			background: #92E9E9;
 			top: 0;
-			height: 44px;
-			line-height: 44px;
+			height: 60px;
+			line-height: 60px;
 			position: fixed;
 		}
 
@@ -3143,7 +3164,7 @@
 /* Footer */
 
 	#footer {
-		padding: 6em 0;
+		padding: 4em 0;
 		background: #92E9E9;
 		color: #fff;
 		text-align: center;
@@ -3198,4 +3219,28 @@
     width:20%;
     border: 0;
     border-bottom: solid 1px #ffffff;
+}
+
+#row-heading{
+    text-align: center;
+    display: inline-block;
+    margin: 0 auto;
+
+}
+#row-heading-implement{
+    text-align: center;
+    display: inline-block;
+    margin: 2%;
+    width: 40%;
+}
+#row-implement{
+    width:100%;
+    text-align: center;
+}
+#contact{
+    margin-bottom: 0px;
+    margin-top:0px;
+}
+#mission-para{
+    font-size:1.1em;
 }
