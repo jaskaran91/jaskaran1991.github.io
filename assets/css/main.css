@@ -1718,11 +1718,6 @@
 		font-size: 1.75em;
 	}
 
-		@media screen and (max-width: 480px) {
-
-			h3 {
-				font-size: 1.25em;
-			}
 
 		}
 
