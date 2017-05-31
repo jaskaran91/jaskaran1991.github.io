@@ -3168,7 +3168,7 @@
 
 		#footer h3 {
 			color: #FFF;
-			margin-bottom: 2em !important;
+			/*margin-bottom: 2em !important;*/
             font-size:2em;
 		}
 
@@ -3210,7 +3210,8 @@
 		}
 
 #bottom
-{   margin-top:5em;
+{   /*margin-top:5em;*/
+    margin-bottom:1em;
     align:center;
     width:20%;
     border: 0;
