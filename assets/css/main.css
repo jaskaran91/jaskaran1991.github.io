@@ -1853,7 +1853,7 @@
 		@media screen and (max-width: 980px) {
 
 			section.wrapper, article.wrapper {
-				padding: 4em 0;
+				padding: 6em 0;
 			}
 
 		}
@@ -1861,7 +1861,7 @@
 		@media screen and (max-width: 736px) {
 
 			section.wrapper, article.wrapper {
-				padding: 3em 0;
+				padding: 6em 0;
 			}
 
 				section.wrapper header, article.wrapper header {
