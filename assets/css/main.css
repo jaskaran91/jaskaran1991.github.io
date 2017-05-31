@@ -2884,7 +2884,7 @@
 		right: 0;
 		top: 0;
 		background: #92E9E9;
-		color: #daefe3;
+		color: white;
 		height: 100%;
 		max-width: 80%;
 		width: 20em;
@@ -2903,7 +2903,7 @@
 
 		#navPanel a:not(.close) {
 			border-top: solid 1px #8dcca9;
-			color: #daefe3;
+			color: white;
 			font-weight: 600;
 			display: block;
 			padding: 0.75em 0;
@@ -2923,7 +2923,7 @@
 			transition: color 0.2s ease-in-out;
 			-webkit-tap-highlight-color: transparent;
 			border: 0;
-			color: #daefe3;
+			color: white;
 			cursor: pointer;
 			display: block;
 			height: 4em;
