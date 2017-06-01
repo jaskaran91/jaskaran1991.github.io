@@ -3241,3 +3241,15 @@
 #mission-para{
     font-size:1.1em;
 }
+#question{
+	margin-top:1em;
+font-size:1.5em;
+color:black;
+}
+#answer{
+font-size:1.5em;
+}
+#faq-container{
+width:85%;
+margin: 0 auto;
+}
