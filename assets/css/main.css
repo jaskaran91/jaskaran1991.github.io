@@ -1802,6 +1802,13 @@
 		max-width: 75em;
 		margin: 0 auto;
 	}
+		@media screen and (max-width: 1680px) {
+
+			.inner {
+				max-width: 90%;
+			}
+
+		}
 
 		@media screen and (max-width: 1280px) {
 
@@ -3068,7 +3075,7 @@
 				}
 
 				#banner h1 {
-					font-size: 2em;
+					font-size: 5em;
 				}
 
 				#banner h3 {
