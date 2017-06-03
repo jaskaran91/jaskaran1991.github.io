@@ -1887,7 +1887,7 @@
 		}
 
 	header p {
-		color: #bbb;
+		color: #ababab;
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
@@ -2677,7 +2677,7 @@
 			input[type="button"].alt.icon:before,
 			button.alt.icon:before,
 			.button.alt.icon:before {
-				color: #bbb;
+				color: #ababab;
 			}
 
 		input[type="submit"].special,
