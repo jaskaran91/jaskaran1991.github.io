@@ -2990,7 +2990,7 @@
 		}
 
 		#banner h1 {
-			font-size: 6em;
+			font-size: 5em;
 			font-weight: 900;
 			color: #fff;
 			line-height: 1em;
@@ -3058,9 +3058,25 @@
 
 		@media screen and (max-width: 1680px) {
 
-			#banner .flex div {
-				padding: 0 6em;
+			
+			#banner {
+				padding: 7em 0 6em 0;
 			}
+
+				#banner .inner {
+					padding-top: 6em;
+				}
+
+				#banner h1 {
+					font-size: 5em;
+				}
+
+				#banner h3 {
+					font-size: 2em;
+				}
+				#banner .flex div {
+				padding: 0 6em;
+				}
 
 		}
 
