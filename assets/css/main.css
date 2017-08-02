@@ -3276,3 +3276,25 @@ font-size:1.5em;
 width:85%;
 margin: 0 auto;
 }
+
+.project{
+    #margin-left: 10px;
+    #margin-right:10px;
+    #margin:8%;
+    display: inline-block;
+    margin-bottom:2%;
+    margin-top:2%;
+    
+}
+.projects-desc  {
+    display:inline;
+    font-family:'Ubuntu',sans-serif;
+    font-size:0.9em;
+}
+.project-name{
+    margin-bottom:0;
+    #font-family:'Amatic SC',cursive;
+}
+.project-loc{
+    font-style:italic;
+}
