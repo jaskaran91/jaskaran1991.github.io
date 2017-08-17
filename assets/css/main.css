@@ -3298,6 +3298,10 @@ margin: 0 auto;
 .project-loc{
     font-style:italic;
 }
+.video-title{
+font-family:'Ubuntu',sans-serif;
+}
 .video-desc{
 font-family:'Ubuntu',sans-serif;
+	font-size:0.9em;
 }
